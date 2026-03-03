@@ -1,9 +1,8 @@
 <h1 align="center">Olá! Eu sou a Nathalia Gomes 👋</h1>
 
 <p align="center">
-  💻 Profissional de TI | 👩‍🔬 Mestranda em Ciência da Computação | 🤖 Inteligência Artificial
+  💻🤖 AI Engineer | 👩‍🔬 Pesquisadora em Inteligência Artificial 
 </p>
-
 ---
 
 ### 👩‍💼 Sobre mim
